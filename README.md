@@ -34,6 +34,7 @@ To create the button use the following code
   		startVal	(int)	changes default starting value of button
 
 Once created the button exposes the following api:
+
 			getValue() - returns the current value of button
 			
 			disable() - disables button actions
