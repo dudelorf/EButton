@@ -17,11 +17,11 @@ Include this template on page in a script type="template/EButton" tag:
 		</div>
 	</div>
 
-Template can be customized however makup requires an id of EButtonTemplate and 4 uinque elements with the following classes:
-  __EBtnMain
-  __EBLess
-  __EBNumber
-  __EBMore
+Template can be customized, however markup requires an id of EButtonTemplate and 4 uinque elements with the following classes:
+  __EBtnMain		:	button container
+  __EBLess		:	decrement button
+  __EBNumber		:	number display
+  __EBMore		:	increment button
   
 To create the button use the following code
   var myButton = new EButton(wrapper, options);
