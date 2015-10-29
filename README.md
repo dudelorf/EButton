@@ -1,7 +1,7 @@
 # EButton
 Customizable numerical button widget
 
-Include this template on page in a script type="template/EButton" tag:
+Include this template on page in a script type="template/EButton" tag with id="EButtonTemplate":
 
 <div class="EButton">
 </div>
@@ -17,7 +17,7 @@ Include this template on page in a script type="template/EButton" tag:
 		</div>
 	</div>
 
-Template can be customized, however markup requires an id of EButtonTemplate and 4 uinque elements with the following classes:
+Template can be customized, however markup requires 4 uinque elements with the following classes:
 <pre>
   __EBtnMain		:	button container
   __EBLess			:	decrement button
