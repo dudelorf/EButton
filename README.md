@@ -30,8 +30,8 @@ To create the button use the following code
   	wrapper			div DOV element to contain button
   	
   	options 		object passed in to override default settings (values are all optional)
-  		min		(int)	minimum value button allows
-  		max		(int)	maximum value button allows
+  		min			(int)	minimum value button allows
+  		max			(int)	maximum value button allows
   		startVal	(int)	changes default starting value of button
 
 Once created the button exposes the following api:
