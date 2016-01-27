@@ -1,5 +1,5 @@
 # EButton
-Customizable numerical button widget
+Widget that records and displays an integer value with buttons for the user to increment and decrement the widget's value. The widget exposes a simple api that allows the program to fetch the current value, enable or disable user input and to register callback functions whenver the button's value changes.
 
 Include this template on page in a script type="template/EButton" tag with id="EButtonTemplate":
 
