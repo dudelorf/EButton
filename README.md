@@ -44,4 +44,4 @@ Once created the button exposes the following api:
 			
 			isDisabled() - returns true if button is disabled
 			
-			register(fx) - will call the function (fx) passed to argument whenever button's value changes
+			register(fx) - will call the function (fx) passed as argument whenever button's value changes
